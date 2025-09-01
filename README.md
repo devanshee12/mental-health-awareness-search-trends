@@ -40,4 +40,8 @@ Helpful references:
 	•	PyTrends (unofficial Google Trends API).(https://github.com/GeneralMills/pytrends?utm_source)  ￼
 	•	WHO Global Health Observatory – Mental Health ￼(https://www.who.int/data/gho/data/themes/mental-health?utm_source)
 	•	Our World in Data – Mental Health (https://ourworldindata.org/mental-health?utm_source)
+
+
+ <img width="1004" height="544" alt="Screenshot 2025-09-01 at 10 08 50 PM" src="https://github.com/user-attachments/assets/7f4cde3e-fd02-4492-a0f3-bf3a952c689d" />
+
     
